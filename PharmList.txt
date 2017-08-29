@@ -1,0 +1,4 @@
+Birthday
+Phone number
+Pt address
+Pt allergies
