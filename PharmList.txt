@@ -1,4 +1,15 @@
-Birthday
-Phone number
-Pt address
-Pt allergies
+Pt Birthday
+Pt Phone number
+Pt Address
+Pt Allergies
+Insurance
+BIN
+Rx Group
+PCN
+RX ID
+DEA
+NPI
+Medication
+# Refill
+Days Supply
+Sig
